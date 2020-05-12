@@ -20,4 +20,4 @@ MySQL 8.0
 ![https://github.com/nogari03/ParkingSystem/blob/master/img/main.png](https://github.com/nogari03/ParkingSystem/blob/master/img/main.png)
 
 ## 개발일지
-[개발일지 보러가기](https://drive.google.com/drive/folders/1u5oD4_iGxv7pfOFP5QSACIT6L_PEPxE8?usp=sharing)
+[개발일지 보러가기](https://drive.google.com/open?id=1u5oD4_iGxv7pfOFP5QSACIT6L_PEPxE8)
