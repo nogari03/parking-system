@@ -1,0 +1,9 @@
+.idea
+.settings
+build
+importedClasses
+
+.classpath
+.gitattributes
+.project
+mini_project.iml
